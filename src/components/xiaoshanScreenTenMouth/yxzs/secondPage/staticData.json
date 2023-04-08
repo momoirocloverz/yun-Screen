@@ -1,0 +1,64 @@
+[
+  {
+    "type": "纪家汇陈氏家庙",
+    "task": "祭祀活动类",
+    "status": "其他",
+    "content": "低-->高",
+    "local": "浦阳镇"
+  },
+  {
+    "type": "小坞70、71号民居",
+    "task": "展览、办公类",
+    "status": "其他",
+    "content": "低-->高",
+    "local": "所前镇"
+  },
+  {
+    "type": "衙前西小江节制闸",
+    "task": "祭祀活动类",
+    "status": "其他",
+    "content": "低-->高",
+    "local": "衙前镇"
+  },
+  { "type": "衙前老街", "task": "展览、办公类", "status": "其他", "content": "低-->高", "local": "衙前镇" },
+  { "type": "珠山道院", "task": "祭祀活动类", "status": "其他", "content": "低-->高", "local": "戴村镇" },
+  { "type": "欢潭老街", "task": "展览、办公类", "status": "其他", "content": "低-->高", "local": "进化镇" },
+  { "type": "下埠战备粮仓", "task": "祭祀活动类", "status": "其他", "content": "高-->低", "local": "义桥镇" },
+  { "type": "太公堂窑址", "task": "展览、办公类", "status": "其他", "content": "高-->低", "local": "进化镇" },
+  { "type": "石盖窑址", "task": "展览、办公类", "status": "其他", "content": "高-->低", "local": "戴村镇" },
+  {
+    "type": "后郑农会旧址",
+    "task": "展览、办公类",
+    "status": "其他",
+    "content": "低-->高",
+    "local": "戴村镇"
+  },
+  { "type": "沈克义父子墓", "task": "祭祀活动类", "status": "其他", "content": "低-->高", "local": "南阳街道" },
+  {
+    "type": "塘口谢家祠堂",
+    "task": "祭祀活动类",
+    "status": "其他",
+    "content": "高-->低",
+    "local": "河上镇"
+  },
+  {
+    "type": "古等慈寺（天王殿）",
+    "task": "展览、办公类",
+    "status": "其他",
+    "content": "低-->高",
+    "local": "进化镇"
+  },
+  { "type": "沈家埭土地庙", "task": "祭祀活动类", "status": "其他", "content": "低-->高", "local": "进化镇" },
+  { "type": "西施古迹群", "task": "展览、办公类", "status": "其他", "content": "低-->高", "local": "临浦镇" },
+  { "type": "大义万缘桥", "task": "祭祀活动类", "status": "其他", "content": "高-->低", "local": "瓜沥镇" },
+  { "type": "邵家85号民居", "task": "展览、办公类", "status": "其他", "content": "低-->高", "local": "义桥镇" },
+  {
+    "type": "路下院94～98号民居",
+    "task": "展览、办公类",
+    "status": "其他",
+    "content": "高-->低",
+    "local": "楼塔镇"
+  },
+  { "type": "黄伯夫墓", "task": "祭祀活动类", "status": "其他", "content": "低-->高", "local": "义桥镇" },
+  { "type": "石盖窑址", "task": "展览、办公类", "status": "其他", "content": "高-->低", "local": "戴村镇" }
+]

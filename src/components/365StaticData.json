@@ -1,0 +1,107 @@
+[
+  {
+    "poi": "120.3235,30.1269",
+    "type": "yingji",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.3049,29.9541",
+    "type": "zhiyuanzhe",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.325,30.24",
+    "type": "wenwuxunjian",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.284,30.1628",
+    "type": "yingji",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.2429,29.9759",
+    "type": "zhiyuanzhe",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.3040,29.9801",
+    "type": "wenwuxunjian",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.300,29.9994",
+    "type": "dangyuan",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.309,30.0638",
+    "type": "qita",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.16,29.94",
+    "type": "yingji",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.12,29.89",
+    "type": "zhiyuanzhe",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.40,30.18",
+    "type": "wenwuxunjian",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.19,29.92",
+    "type": "yingji",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.20,29.98",
+    "type": "zhiyuanzhe",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.30,30.12",
+    "type": "wenwuxunjian",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.19,30.02",
+    "type": "dangyuan",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.22,30.07",
+    "type": "qita",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.56,30.18",
+    "type": "yingji",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.56,30.18",
+    "type": "zhiyuanzhe",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.53,30.19",
+    "type": "wenwuxunjian",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.59,30.20",
+    "type": "dangyuan",
+    "linkAction": "1"
+  },
+  {
+    "poi": "120.50,30.168",
+    "type": "qita",
+    "linkAction": "1"
+  }
+]

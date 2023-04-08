@@ -1,0 +1,56 @@
+[{
+    "centerX": "119.44826484421444",
+    "centerY": "32.4177792011528",
+    "count": 0,
+    "createDate": "2018-11-22 12:53:03",
+    "createUser": "admin",
+    "gisType": "3D",
+    "id": 71998,
+    "isDeleted": 0,
+    "maxLat": 32.41849380229856,
+    "maxLon": 119.44947720268917,
+    "minLat": 32.41691552985,
+    "minLon": 119.44733679989528,
+    "orgInternalCode": ".1.10.1.4.18.1.",
+    "organization": {
+        "createDate": "2014-12-02 15:59:48",
+        "createUser": "admin",
+        "departmentNo": "321002004205000",
+        "fullPinyin": "diyiwangge",
+        "gridGatetory": 0,
+        "gridProperty": 1,
+        "gridPropertyLabel": "农村网格",
+        "hasJudgeAuthorize": false,
+        "homePageVersion": 0,
+        "id": 64889,
+        "maxCode": 0,
+        "navigationVersion": 1,
+        "newDepartmentNo": "321002004205001",
+        "orgInternalCode": ".1.10.1.4.18.1.",
+        "orgLevel": {
+            "displaySeq": 0,
+            "id": 207,
+            "internalId": 0
+        },
+        "orgName": "第一网格",
+        "orgType": {
+            "displaySeq": 0,
+            "id": 214,
+            "internalId": 0
+        },
+        "parentOrg": {
+            "gridPropertyLabel": "城市网格",
+            "id": 21244,
+            "maxCode": 0
+        },
+        "seq": 1,
+        "simplePinyin": "dywg",
+        "subCount": 0,
+        "subCountFun": 0,
+        "updateDate": "2019-05-27 10:16:41",
+        "updateUser": "admin"
+    },
+    "points": "POLYGON((119.44744955742591 32.41849380229856,119.44920103991264 32.41848039125349,119.44947720268917 32.41715692866134,119.44842577675533 32.41691552985,119.4483131239767 32.41695844519424,119.44810927609157 32.41713547098922,119.44787860611629 32.41725885260391,119.44763720730495 32.41738223421859,119.44750846127224 32.417602175357814,119.44737435082149 32.417811387660976,119.44733679989528 32.418074244144435,119.44744945267391 32.41849266875076,119.44744955742591 32.41849380229856))",
+    "remark": "第一网格",
+    "zoom": 10
+}]

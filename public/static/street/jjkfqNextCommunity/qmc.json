@@ -1,0 +1,111 @@
+[{
+    "centerX": "119.50352335874014",
+    "centerY": "32.31634139314492",
+    "count": 0,
+    "createDate": "2019-09-18 16:19:20",
+    "createUser": "wh077",
+    "gisType": "3D",
+    "id": 100000000087502,
+    "isDeleted": 0,
+    "maxLat": 32.326855652483296,
+    "maxLon": 119.51894627007978,
+    "minLat": 32.30878829255898,
+    "minLon": 119.49330950681143,
+    "orgInternalCode": ".1.10.1.12.21.2.",
+    "organization": {
+        "createDate": "2019-05-14 12:51:14",
+        "createUser": "wh077",
+        "departmentNo": "321002400211001",
+        "fullPinyin": "wangge2",
+        "gridGatetory": 0,
+        "gridProperty": 1,
+        "gridPropertyLabel": "农村网格",
+        "hasJudgeAuthorize": false,
+        "homePageVersion": 0,
+        "id": 100000000218774,
+        "maxCode": 0,
+        "navigationVersion": 0,
+        "newDepartmentNo": "321002400211002",
+        "orgInternalCode": ".1.10.1.12.21.2.",
+        "orgLevel": {
+            "displaySeq": 0,
+            "id": 207,
+            "internalId": 0
+        },
+        "orgName": "网格2",
+        "orgType": {
+            "displaySeq": 0,
+            "id": 214,
+            "internalId": 0
+        },
+        "parentOrg": {
+            "gridPropertyLabel": "城市网格",
+            "id": 100000000218754,
+            "maxCode": 0
+        },
+        "seq": 2,
+        "simplePinyin": "wg2",
+        "subCount": 0,
+        "subCountFun": 0,
+        "updateDate": "2019-06-05 09:41:09",
+        "updateUser": "Dyzgl001"
+    },
+    "points": "POLYGON((119.51894627007978 32.318918580894824,119.51077605191641 32.326855652483296,119.50382376614981 32.31994628206093,119.50099135343008 32.3202466894706,119.49330950681143 32.31157778993447,119.49438239041739 32.310161583574605,119.50498248044424 32.30878829255898,119.51051855985098 32.31608390107949,119.51888705197744 32.3187875677665,119.51894627007978 32.318918580894824))",
+    "remark": "第二网格",
+    "zoom": 10
+}, {
+    "centerX": "119.52836113797807",
+    "centerY": "32.3254343850264",
+    "count": 0,
+    "createDate": "2019-09-18 16:18:43",
+    "createUser": "wh077",
+    "gisType": "3D",
+    "id": 100000000087501,
+    "isDeleted": 0,
+    "maxLat": 32.33466118403763,
+    "maxLon": 119.55050545560502,
+    "minLat": 32.3188254220137,
+    "minLon": 119.51072293149613,
+    "orgInternalCode": ".1.10.1.12.21.1.",
+    "organization": {
+        "createDate": "2019-05-14 12:51:14",
+        "createUser": "wh077",
+        "departmentNo": "321002400211000",
+        "fullPinyin": "wangge1",
+        "gridGatetory": 0,
+        "gridProperty": 1,
+        "gridPropertyLabel": "农村网格",
+        "hasJudgeAuthorize": false,
+        "homePageVersion": 0,
+        "id": 100000000218773,
+        "maxCode": 0,
+        "navigationVersion": 0,
+        "newDepartmentNo": "321002400211001",
+        "orgInternalCode": ".1.10.1.12.21.1.",
+        "orgLevel": {
+            "displaySeq": 0,
+            "id": 207,
+            "internalId": 0
+        },
+        "orgName": "网格1",
+        "orgType": {
+            "displaySeq": 0,
+            "id": 214,
+            "internalId": 0
+        },
+        "parentOrg": {
+            "gridPropertyLabel": "城市网格",
+            "id": 100000000218754,
+            "maxCode": 0
+        },
+        "seq": 1,
+        "simplePinyin": "wg1",
+        "subCount": 0,
+        "subCountFun": 0,
+        "updateDate": "2019-06-05 09:41:03",
+        "updateUser": "Dyzgl001"
+    },
+    "points": "POLYGON((119.51072293149613 32.32685059138626,119.51316910611772 32.32444733210892,119.51891976224564 32.3188254220137,119.53947621213578 32.325477300370636,119.54887467252397 32.33170002528519,119.55050545560502 32.33466118403763,119.53887539731645 32.33135670253128,119.53123646604203 32.33144253321976,119.52818947660111 32.33320206233353,119.51325493680619 32.32440441676468,119.51080876218461 32.326764760697785,119.51072293149613 32.32685059138626))",
+    "remark": "第一网格",
+    "zoom": 10
+}]

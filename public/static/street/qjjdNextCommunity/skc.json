@@ -1,0 +1,111 @@
+[{
+    "centerX": "119.46794181991118",
+    "centerY": "32.38798486736178",
+    "count": 0,
+    "createDate": "2018-11-16 16:31:39",
+    "createUser": "admin",
+    "gisType": "3D",
+    "id": 67590,
+    "isDeleted": 0,
+    "maxLat": 32.38943326022982,
+    "maxLon": 119.47018414664763,
+    "minLat": 32.38619315173983,
+    "minLon": 119.46425110030668,
+    "orgInternalCode": ".1.10.1.4.14.1.",
+    "organization": {
+        "createDate": "2014-12-02 15:59:48",
+        "createUser": "admin",
+        "departmentNo": "321002004201000",
+        "fullPinyin": "diyiwangge",
+        "gridGatetory": 0,
+        "gridProperty": 1,
+        "gridPropertyLabel": "农村网格",
+        "hasJudgeAuthorize": false,
+        "homePageVersion": 0,
+        "id": 64885,
+        "maxCode": 0,
+        "navigationVersion": 1,
+        "newDepartmentNo": "321002004201001",
+        "orgInternalCode": ".1.10.1.4.14.1.",
+        "orgLevel": {
+            "displaySeq": 0,
+            "id": 207,
+            "internalId": 0
+        },
+        "orgName": "第一网格",
+        "orgType": {
+            "displaySeq": 0,
+            "id": 214,
+            "internalId": 0
+        },
+        "parentOrg": {
+            "gridPropertyLabel": "城市网格",
+            "id": 21240,
+            "maxCode": 0
+        },
+        "seq": 1,
+        "simplePinyin": "dywg",
+        "subCount": 0,
+        "subCountFun": 0,
+        "updateDate": "2019-05-27 10:16:41",
+        "updateUser": "admin"
+    },
+    "points": "POLYGON((119.47015196013945 32.389325971869226,119.46617156196135 32.38943326022982,119.46609646010893 32.3894118025577,119.4661822907974 32.38920795467257,119.46425110030668 32.38871442821383,119.46463733840483 32.38797413852572,119.46563512015837 32.38826381709933,119.46653634238737 32.387115831640955,119.46661144423979 32.38691198375582,119.46662217307585 32.38619315173983,119.4676950566818 32.38627898242831,119.46756631064909 32.38706218746066,119.46760922599333 32.386879797247644,119.46988373923796 32.38718020465731,119.47018414664763 32.38931524303317,119.47015196013945 32.389325971869226))",
+    "remark": "第一网格",
+    "zoom": 10
+}, {
+    "centerX": "119.46856409240263",
+    "centerY": "32.38575326946139",
+    "count": 0,
+    "createDate": "2018-11-16 16:32:21",
+    "createUser": "Byzgl001",
+    "gisType": "3D",
+    "id": 67591,
+    "isDeleted": 0,
+    "maxLat": 32.38716947582125,
+    "maxLon": 119.46988373923796,
+    "minLat": 32.38454091098666,
+    "minLon": 119.46663290191191,
+    "orgInternalCode": ".1.10.1.4.14.2.",
+    "organization": {
+        "createDate": "2018-11-02 16:19:58",
+        "createUser": "Byzgl001",
+        "departmentNo": "321002004201001",
+        "fullPinyin": "dierwangge",
+        "gridGatetory": 0,
+        "gridProperty": 1,
+        "gridPropertyLabel": "农村网格",
+        "hasJudgeAuthorize": false,
+        "homePageVersion": 0,
+        "id": 206496,
+        "maxCode": 0,
+        "navigationVersion": 0,
+        "newDepartmentNo": "321002004201002",
+        "orgInternalCode": ".1.10.1.4.14.2.",
+        "orgLevel": {
+            "displaySeq": 0,
+            "id": 207,
+            "internalId": 0
+        },
+        "orgName": "第二网格",
+        "orgType": {
+            "displaySeq": 0,
+            "id": 214,
+            "internalId": 0
+        },
+        "parentOrg": {
+            "gridPropertyLabel": "城市网格",
+            "id": 21240,
+            "maxCode": 0
+        },
+        "seq": 2,
+        "simplePinyin": "dewg",
+        "subCount": 0,
+        "subCountFun": 0,
+        "updateDate": "2019-05-27 10:16:41",
+        "updateUser": "admin"
+    },
+    "points": "POLYGON((119.46988373923796 32.38716947582125,119.46763068366545 32.386890526083704,119.46767359900969 32.38628971126437,119.46663290191191 32.38622533824801,119.46671873260038 32.38542067554354,119.46686893630522 32.38516318347811,119.46725517440336 32.38518464115023,119.46736246276396 32.38454091098666,119.46946531463163 32.384583826330896,119.46988373923796 32.38715874698519,119.46988373923796 32.38716947582125))",
+    "remark": "第二网格",
+    "zoom": 10
+}]
